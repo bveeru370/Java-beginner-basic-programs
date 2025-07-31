@@ -42,4 +42,4 @@ This repository contains *20 simple Java programs* to help beginners learn and p
 1. Install [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html)  
 2. Clone this repository  
    ```bash
-   git clone https://github.com/yourusername/Java-beginner-basic-programs.git
+   git clone https://github.com/bveeru370/Java-beginner-basic-programs.git
